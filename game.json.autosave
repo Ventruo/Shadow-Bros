@@ -1234,6 +1234,123 @@
         "name": "Wraith_01_Moving Forward_011.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walk-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walk-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BG.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BG.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1266,7 +1383,7 @@
         "gridWidth": 16,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.784
+        "zoomFactor": 0.76
       },
       "objectsGroups": [],
       "variables": [],
@@ -1295,7 +1412,7 @@
           "locked": false,
           "name": "Tile1",
           "persistentUuid": "331d4bfb-c98c-4dd6-8c4e-d7670167b8df",
-          "width": 768,
+          "width": 736,
           "x": 0,
           "y": 624,
           "zOrder": 3,
@@ -1307,22 +1424,6 @@
               "value": "2"
             }
           ]
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "TileLedgeLeft",
-          "persistentUuid": "bec8f9b9-4d1a-47ee-846b-61768fa41b16",
-          "width": 64,
-          "x": 720,
-          "y": 560,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1349,7 +1450,7 @@
           "name": "Tile1",
           "persistentUuid": "af084796-4a32-4f6a-aa8c-d73ee94c4c99",
           "width": 128,
-          "x": 784,
+          "x": 768,
           "y": 496,
           "zOrder": 7,
           "numberProperties": [],
@@ -1378,28 +1479,12 @@
           "height": 128,
           "layer": "",
           "locked": false,
-          "name": "TileLedgeRight",
-          "persistentUuid": "3c2317b0-ae22-441e-91c1-ebb54b45ae19",
-          "width": 128,
+          "name": "TileLedge1",
+          "persistentUuid": "175b8ca2-4544-4054-920f-68781388ac69",
+          "width": 48,
           "x": 0,
           "y": 208,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "TileLedgeLeft",
-          "persistentUuid": "d03289bb-611a-4db1-94a5-bbcb51982ecf",
-          "width": 64,
-          "x": 912,
-          "y": 336,
-          "zOrder": 11,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1410,12 +1495,12 @@
           "height": 128,
           "layer": "",
           "locked": false,
-          "name": "TileLedgeRight",
-          "persistentUuid": "3d38f26c-c341-45aa-aebd-9ba3029740aa",
-          "width": 64,
+          "name": "TileLedge1",
+          "persistentUuid": "f689f36e-21d8-4383-a409-d4d70ccd7851",
+          "width": 48,
           "x": 0,
           "y": 496,
-          "zOrder": 10,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1427,11 +1512,59 @@
           "layer": "",
           "locked": false,
           "name": "Enemy2",
-          "persistentUuid": "68e0be6d-904a-4772-906b-2020a0675308",
-          "width": 144,
-          "x": 304,
-          "y": 144,
-          "zOrder": 12,
+          "persistentUuid": "9148be36-cb99-4956-94b2-9083d7f06ba2",
+          "width": 80,
+          "x": 224,
+          "y": 224,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "TileLedge2",
+          "persistentUuid": "8bf73859-0602-4eaa-b7b7-feef0a28801a",
+          "width": 80,
+          "x": 720,
+          "y": 560,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "locked": false,
+          "name": "TileLedge2",
+          "persistentUuid": "f6f2f558-1fe2-4312-bf14-dcf6b074a5a1",
+          "width": 80,
+          "x": 896,
+          "y": 368,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "BG",
+          "persistentUuid": "88c3acd6-1035-4869-8cb4-0f4719336cbd",
+          "width": 0,
+          "x": -384,
+          "y": -128,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2419,60 +2552,6 @@
           ]
         },
         {
-          "height": 64,
-          "name": "TileLedgeLeft",
-          "tags": "",
-          "texture": "Tile (4).png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "height": 64,
-          "name": "TileEdgeRight",
-          "tags": "",
-          "texture": "Tile (7).png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "height": 32,
-          "name": "TileLedgeRight",
-          "tags": "",
-          "texture": "Tile (6).png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
           "name": "EnemyVision",
           "tags": "",
           "type": "Sprite",
@@ -2544,21 +2623,21 @@
           ],
           "animations": [
             {
-              "name": "Move",
+              "name": "Walk",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.0417,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_000.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2566,35 +2645,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_001.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2602,35 +2662,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_002.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2638,35 +2679,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_003.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2674,35 +2696,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_004.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2710,35 +2713,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_005.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2746,35 +2730,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_006.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2782,35 +2747,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_007.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2818,35 +2764,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_008.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2854,35 +2781,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_009.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2890,35 +2798,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_010.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2926,35 +2815,16 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wraith_01_Moving Forward_011.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 78,
-                        "y": 218.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2962,26 +2832,140 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 132,
-                            "y": 30
-                          },
-                          {
-                            "x": 360,
-                            "y": 30
-                          },
-                          {
-                            "x": 356,
-                            "y": 320
-                          },
-                          {
-                            "x": 132,
-                            "y": 320
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TileLedge1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Tile (6).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TileLedge2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Tile (4).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BG",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "bg",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BG.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -3106,19 +3090,6 @@
                 "Player",
                 "=",
                 "2"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Player",
-                "jump",
-                "-",
-                "1"
               ],
               "subInstructions": []
             }
@@ -3306,10 +3277,10 @@
               },
               "parameters": [
                 "Enemy2",
-                "TileLedgeLeft",
+                "TileLedge1",
                 "",
                 "",
-                ""
+                "no"
               ],
               "subInstructions": []
             }
@@ -3324,7 +3295,7 @@
                 "Enemy2",
                 "GoLeft",
                 "=",
-                "0"
+                "1"
               ],
               "subInstructions": []
             }
@@ -3343,10 +3314,10 @@
               },
               "parameters": [
                 "Enemy2",
-                "TileLedgeRight",
+                "TileLedge2",
                 "",
                 "",
-                ""
+                "no"
               ],
               "subInstructions": []
             }
@@ -3361,7 +3332,7 @@
                 "Enemy2",
                 "GoLeft",
                 "=",
-                "1"
+                "0"
               ],
               "subInstructions": []
             }
