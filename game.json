@@ -1351,6 +1351,663 @@
         "name": "BG.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/wraithpng/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\wraithpng\\Wraith_01\\PNG Sequences\\Casting Spells\\Wraith_01_Casting Spells_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_010.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_015.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_016.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Wraith_01_Casting Spells_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wraith_01_Casting Spells_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-9-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-10-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-10-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-11-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-11-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-12-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-12-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-13-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-13-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-14-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-14-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-15-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-15-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-16-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-16-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-17-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-17-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-18-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-18-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-7-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-8-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-8-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-9-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-9-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-10-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-10-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-11-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-11-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-12-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-12-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-13-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-14-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-14-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-15-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-15-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-16-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-16-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-17-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-17-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "CastSpell-18-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CastSpell-18-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1397,8 +2054,8 @@
           "name": "Player",
           "persistentUuid": "0913a66e-3957-4896-83ba-38035351ffa3",
           "width": 64,
-          "x": 80,
-          "y": 480,
+          "x": 896,
+          "y": 240,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1511,11 +2168,11 @@
           "height": 112,
           "layer": "",
           "locked": false,
-          "name": "Enemy2",
+          "name": "Enemy",
           "persistentUuid": "9148be36-cb99-4956-94b2-9083d7f06ba2",
           "width": 80,
-          "x": 224,
-          "y": 224,
+          "x": 320,
+          "y": 272,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -1565,6 +2222,22 @@
           "x": -384,
           "y": -128,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyVision",
+          "persistentUuid": "94405a9a-146e-4bf1-87f8-27d5fca7fe94",
+          "width": 144,
+          "x": 288,
+          "y": 256,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2552,295 +3225,6 @@
           ]
         },
         {
-          "name": "EnemyVision",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewObject",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject-1-0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Enemy2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "GoLeft",
-              "value": "0"
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": true,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "Walk",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "walk-12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "TileLedge1",
           "tags": "",
           "type": "Sprite",
@@ -2919,6 +3303,295 @@
                         "name": "origine",
                         "x": 0,
                         "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EnemyVision",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 110.925,
+                        "y": 15.9615
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 110.541,
+                        "y": 15.9615
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enemy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "GoLeft",
+              "value": "0"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0417,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walk-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 132,
+                        "y": 153.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3184,7 +3857,7 @@
                 "value": "VarObjet"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "GoLeft",
                 "=",
                 "0"
@@ -3199,7 +3872,7 @@
                 "value": "PlatformBehavior::SimulateControl"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "PlatformerObject",
                 "\"Left\""
               ],
@@ -3211,7 +3884,7 @@
                 "value": "FlipX"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "yes"
               ],
               "subInstructions": []
@@ -3230,7 +3903,7 @@
                 "value": "VarObjet"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "GoLeft",
                 "=",
                 "1\n"
@@ -3245,7 +3918,7 @@
                 "value": "PlatformBehavior::SimulateControl"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "PlatformerObject",
                 "\"Right\""
               ],
@@ -3257,7 +3930,7 @@
                 "value": "FlipX"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "no"
               ],
               "subInstructions": []
@@ -3276,7 +3949,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "TileLedge1",
                 "",
                 "",
@@ -3292,7 +3965,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "GoLeft",
                 "=",
                 "1"
@@ -3313,7 +3986,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "TileLedge2",
                 "",
                 "",
@@ -3329,10 +4002,181 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "Enemy2",
+                "Enemy",
                 "GoLeft",
                 "=",
                 "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemy",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "LinkedObjects::LinkObjects"
+              },
+              "parameters": [
+                "",
+                "Enemy",
+                "EnemyVision"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "CreateByName"
+              },
+              "parameters": [
+                "",
+                "EnemyVision",
+                "",
+                "Enemy.X()",
+                "Enemy.Y()",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemy",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "",
+                "EnemyVision",
+                "Enemy"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "EnemyVision",
+                "=",
+                "Enemy.X()",
+                "=",
+                "Enemy.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemy",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "",
+                "EnemyVision",
+                "Enemy"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Enemy"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "EnemyVision",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemy",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "",
+                "EnemyVision",
+                "Enemy"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Enemy"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "EnemyVision",
+                "yes"
               ],
               "subInstructions": []
             }
